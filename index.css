@@ -1,0 +1,9 @@
+/*
+ * Special formatting for index.html
+ *
+ */
+
+body img {
+    float:  right;
+    display:  inline;
+}

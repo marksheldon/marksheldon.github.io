@@ -5,3 +5,55 @@
  * Author:  Mark A. Sheldon, June 2019
  */
 
+body {
+    background-color:  plum;
+}
+
+header h1 {
+    text-align:  center;
+}
+
+nav {
+    margin:            0 auto;
+    width:             500px;
+    display:           flex;
+    padding:           10px;
+    margin-bottom:     20px;
+    border:            1px solid black;
+    background-color:  thistle;
+}
+
+nav ul {
+    padding:          0;
+    list-style-type:  none;
+    flex:             2;
+    display:          flex;
+    vertical-align:   middle;
+}
+
+nav li {
+    display:    inline;
+    text-align: center;
+    flex:       1;
+    font-size:  2rem;
+}
+
+nav a {
+    display:          inline-block;
+    text-decoration:  none;
+    color:            purple;
+}
+
+nav a:hover {
+    color:  blue;
+}
+
+main {
+    max-width:  40em;
+}
+
+footer {
+    text-align:  center;
+    margin-top:  20px;
+    font-size:   small;
+}
