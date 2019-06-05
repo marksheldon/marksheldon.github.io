@@ -1,4 +1,4 @@
-#  Comp 20 Lab 5 README
+#  Comp 20 Lab 4 README
 ## Mark A. Sheldon, 2019 Summer
 
 **Purpose:** Create a basic, static web site with main (index) page
