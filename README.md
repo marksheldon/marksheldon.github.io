@@ -1,5 +1,9 @@
 #  Comp 20 Lab 5 README
-## Mark A. Sheldon, 2019 Summer
+## Mark A. Sheldon
+## 2019 Summer
+
+**Purpose:**  Create a basic, static web site with main (index) page and sample resume
+and bio pages styled with an external CSS sheet.
 
 1. What works, what doesn't
    So far, nothing works.  Checklist:
@@ -11,5 +15,3 @@
 
 2. Collaborators:  none
 3. Hours taken:  ??TBD
-
-
