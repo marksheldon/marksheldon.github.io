@@ -5,12 +5,13 @@
 and sample resume and bio pages styled with an external CSS sheet.
 
 1. What works, what doesn't
-   So far, nothing works.  Checklist:
-   - [ ] index.html (links to resume and bio)
-   - [ ] resume.html
+   Checklist:
+   - [x] index.html (links to resume and bio)
+   - [x] resume.html
    - [ ] bio.html
    - [ ] css incorporated as external sheet (>= 5 rules)
    - [ ] README.md (draft)
+   - [ ] All validates
 
 2. Collaborators:  none
 3. Hours taken:  ??TBD
