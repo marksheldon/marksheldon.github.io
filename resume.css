@@ -3,9 +3,6 @@
  *
  * Mark A. Sheldon, Comp 20, 2019 Summer
  *
- * TODO:  Make courses show up in multiple columns
- *        trying not to use a table, and want browswer
- *        to lay out the columns for me.
  */
 
 body {
@@ -21,13 +18,7 @@ main section table {
     margin-left:  2em;
 }
 
-/*
- * Wanted to make course list multi-column without using a table
- * but it's not working.
- */
-ul .courselist {
-    -webkit-columns: 100px 2;
-    -moz-columns:  100px 2;
+.courselist {
     columns: 100px 2;
 }
 
